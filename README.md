@@ -1,2 +1,1 @@
-Linux
-# zero_day
+Hello ubuntu
